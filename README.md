@@ -115,8 +115,8 @@ Driven by precision, innovation, and a commitment to excellence, I help bring am
                 <br>PostgreSQL
               </td>
               <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-                <br>Tailwind
+                <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="python" />
+                <br>Python
               </td>
             </tr>
           </table>
