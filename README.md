@@ -1,6 +1,6 @@
 
 👋 Hello !! <br>
-I am a **Full-Stack and Blockchain Engineer** with a proven track record of delivering robust, scalable, and user-focused applications. With deep expertise in **LangChain, LLMs, NLP, Solidity, Rust, Go, Haskell, Anchor, React/Next.js, JS/TS and Node.js**, I build end-to-end solutions across both Web2 and Web3 ecosystems.
+I am a **AI and Blockchain Engineer** with a proven track record of delivering robust, scalable, and user-focused applications. With deep expertise in **LangChain, LLMs, NLP, Solidity, Rust, Go, Haskell, Anchor, React/Next.js, JS/TS and Node.js**, I build end-to-end solutions across both Web2 and Web3 ecosystems.
 My experience includes developing **AI agents, smart contracts, dApps, DeFi platforms, web and mobile wallets, NFT games, node infrastructure, and automated trading systems.** I combine strong system architecture skills with thoughtful UI/UX design to transform complex technical requirements into high-performance, intuitive products.
 Driven by precision, innovation, and a commitment to excellence, I help bring ambitious ideas to life and push the boundaries of modern technology.        <br><br>
          <div style="display: flex; align-items: flex-start; align: center">
