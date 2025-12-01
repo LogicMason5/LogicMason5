@@ -119,6 +119,32 @@ Driven by precision, innovation, and a commitment to excellence, I help bring am
                 <br>Python
               </td>
             </tr>
+            <tr>
+              <td align="center" width="96">
+                  <img src="https://skillicons.dev/icons?i=c++" width="48" height="48" alt="GraphQL" />
+                  <br>C++
+               </td>
+             <td align="center" width="96">
+                <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+                <br>React Native
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
+                <br>Java
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Vue" />
+                <br>Flutter
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Nodejs" />
+                <br>Kotlin
+              </td>
+              <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="48" height="48" />
+                <br>Laravel
+              </td>
+            </tr>
           </table>
         </div >
         <br>
