@@ -1,9 +1,30 @@
-👋 Hello !!
-I am an **AI and Full-Stack Engineer** specializing in building robust, scalable, and user-focused applications. I have deep expertise in **AI/ML, LLMs, NLP, Web3 basics, and full-stack development** across web and mobile platforms.
+<h2 align="center">👋 Hello !!</h2>
 
-I design and implement **end-to-end solutions** including AI agents, smart contracts, dApps, web & mobile apps, NFT platforms, and automated systems. With strong system architecture skills and thoughtful UI/UX design, I turn complex requirements into high-performance, intuitive products.
+<p align="center">
+AI & Full-Stack Engineer • LLMs • Systems Architecture • Cloud Infrastructure
+</p>
 
-Driven by **precision, innovation, and a commitment to excellence**, I help bring ambitious ideas to life while pushing the boundaries of modern technology.
+---
+
+I am an **AI and Full-Stack Engineer** focused on building scalable, production-grade systems powered by modern AI. My expertise spans **LLMs, agent architectures, RAG systems, and applied machine learning**, combined with strong capabilities across **frontend, backend, and cloud infrastructure**.
+
+I design and deliver **end-to-end solutions** — from intelligent AI agents and data pipelines to high-performance web/mobile applications and distributed systems. My work includes **LLM-powered applications, autonomous workflows, real-time AI systems, and developer platforms**, all built with a strong emphasis on **reliability, observability, and scalability**.
+
+On the infrastructure side, I specialize in **cloud-native architectures (AWS/GCP)**, **containerization (Docker)**, **orchestration**, **CI/CD pipelines**, and **system performance optimization**, ensuring that AI systems are not just functional, but **production-ready and cost-efficient**.
+
+---
+
+### ⚡ Focus Areas
+
+- Retrieval-Augmented Generation (RAG) and vector databases  
+- Multi-agent systems and tool-augmented LLMs  
+- On-device / local LLM deployment and optimization  
+- Streaming and real-time inference architectures  
+- AI-integrated developer workflows and automation  
+
+---
+
+Driven by **precision, scalability, and practical impact**, I focus on turning complex ideas into **robust, maintainable systems** that deliver real-world value.
 
 ---
 
